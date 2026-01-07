@@ -12,16 +12,16 @@ Lectures: 2 sessions/week, 1.5 hours/session
 
 ## Prerequisites
 
-One of the following courses in Calculus II, which fulfill the {{% resource_link "96460f1f-33a5-41ad-9bca-7b7af772c9df" "General Institute Requirement (GIR) in Mathematics" %}}:
+One of the following courses in Calculus II, which fulfill the [General Institute Requirement (GIR) in Mathematics](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "b9113edd-783a-47c1-b0ff-95d59b6ab72c" "*18.02 Multivariable Calculus*" %}}
-- {{% resource_link "0d93d791-6e1b-4d44-b8c5-287b6e545f00" "*18.022 Calculus of Several Variables*" %}}
+- [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+- [*18.022 Calculus of Several Variables*](https://ocw.mit.edu/courses/18-022-calculus-of-several-variables-fall-2010/)
 
-and one of the following courses in Physics I, which fulfill the {{% resource_link "96460f1f-33a5-41ad-9bca-7b7af772c9df" "General Institute Requirement (GIR) in Physics" %}}:
+and one of the following courses in Physics I, which fulfill the [General Institute Requirement (GIR) in Physics](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "ef5fe8ae-16dd-429d-ae2f-dabd57917f7f" "*8.01 Classical Mechanics*" %}}
-- {{% resource_link "d006991b-5dce-4d5a-be04-7f71f077ba88" "*8.012 Physics I: Classical Mechanics*" %}}
-- {{% resource_link "e832aac2-e7af-4a6f-9dbf-13325685c9c8" "*8.01L Physics I: Classical Mechanics*" %}}
+- [*8.01 Classical Mechanics*](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+- [*8.012 Physics I: Classical Mechanics*](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/)
+- [*8.01L Physics I: Classical Mechanics*](https://ocw.mit.edu/courses/8-01l-physics-i-classical-mechanics-fall-2005/)
 
 ## Course Description
 
