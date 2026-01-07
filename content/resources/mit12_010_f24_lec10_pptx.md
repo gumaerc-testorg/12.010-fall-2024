@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2024/mit12_010_f24_lec10.pptx
-file_size: 1582483
+file_size: 1582560
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
   caption: ''
@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: mit12_010_f24_lec10.pptx

@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2024/mit12_010_f24_lec23.pdf
-file_size: 1471316
+file_size: 1444907
 file_type: application/pdf
 image_metadata:
   caption: ''
